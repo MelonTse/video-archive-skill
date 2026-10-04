@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频压缩与归档"
+  short_description: "先检查环境和分析素材，再比较小样，确认画质后批量压缩并指导归档"
+  default_prompt: "使用 $video-archive 检查我的本地环境并分析指定目录的视频，了解我的用途后推荐压缩方案，先做小样供我确认，再批量处理和归档。"

@@ -1,0 +1,9 @@
+[project]
+name = "video-archive-skill"
+version = "0.1.0"
+description = "An AI-guided local video compression and archival workflow"
+requires-python = ">=3.9"
+dependencies = []
+
+[dependency-groups]
+dev = ["PyYAML>=6,<7"]

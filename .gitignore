@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+jobs/
+dist/
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.mkv
+*.log
+.env
+.env.*

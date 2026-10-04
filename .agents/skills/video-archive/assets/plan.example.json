@@ -1,0 +1,12 @@
+{
+  "goal": "填写用户在看到扫描结果后说明的真实目标",
+  "rationale": "填写基于本次素材和播放设备的推荐理由",
+  "encoder": "libx265",
+  "preset": "medium",
+  "crfs": [18, 20, 22],
+  "threads": 0,
+  "profile_ids": ["replace-with-scanned-profile-id"],
+  "samples": [
+    {"relative_path": "replace-with-relative-video-path.mp4", "start_seconds": 0, "seconds": 30}
+  ]
+}
